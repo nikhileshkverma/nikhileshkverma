@@ -56,5 +56,4 @@
   </a>
 </p>
 
-## 📫 Let’s Talk!
 I welcome you to connect via any of the social links above to explore potential opportunities, mentorship, or collaborative ventures. You’re also encouraged to engage with my work—feel free to clone or fork repositories, open issues, or submit pull requests with your suggestions for enhancement. 
