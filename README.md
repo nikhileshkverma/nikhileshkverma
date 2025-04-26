@@ -15,8 +15,8 @@
 ---
 
 ## 💻 About Me
-- 🤔 I like building secure on-device AI and edge-computing solutions.  
-- 🎓 MS in Computer Science candidate at **Texas A&M University–Corpus Christi** (Aug 2024–Present).  
+- 🤔   I like building new technologies to secure on-device AI and edge-computing solutions to tackle today’s tech challenges   
+- 🎓 MS in Computer Science student at **Texas A&M University–Corpus Christi**.  
 - 🔬 Graduate Research Assistant on CAHSI-Google project: “Protect On-Device AI Security with Multi-Enclave Architecture and Autoencoder.”
 
 ---
