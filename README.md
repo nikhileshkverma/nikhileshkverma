@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there 👋 I’m Nikhilesh Verma
 
-<!--
-**nikhileshkverma/nikhileshkverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhileshkverma/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nikhileshkverma@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nikhileshkverma" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+- 🤔 I like building secure on-device AI and edge-computing solutions.  
+- 🎓 MS in Computer Science candidate at **Texas A&M University–Corpus Christi** (Aug 2024–Present).  
+- 🔬 Graduate Research Assistant on CAHSI-Google project: “Protect On-Device AI Security with Multi-Enclave Architecture and Autoencoder.”
+
+---
+
+## 🛠 Tech Stack
+
+#### 🔤 Languages  
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)  
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
+
+#### 🧰 Frameworks & Libraries  
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)  
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)  
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)  
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
+#### 🗄️ Databases & Caching  
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+
+#### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)  
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)  
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)  
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+
+---
+
+## 📫 Let’s Talk!
+Feel free to explore, fork, or raise issues on any of my projects. I’m always open to collaboration, mentorship, and new opportunities!  
