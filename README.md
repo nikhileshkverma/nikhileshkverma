@@ -1,18 +1,6 @@
-# Hi there 👋 I’m Nikhilesh Verma
+### Hi there 👋 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nikhileshkverma/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nikhileshkverma@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/nikhileshkverma" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
+# I'm Nikhilesh Verma
 
 ## 💻 About Me
 - 🤔   I like building new technologies to secure on-device AI and edge-computing solutions to tackle today’s tech challenges   
@@ -52,7 +40,21 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)  
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
----
+
+
+##  🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhileshkverma/" target="_blank">
+    <img src="https://img.shields.io/badge/-Nikhilesh%20Verma-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nikhileshkverma@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-nikhileshkverma@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nikhileshkverma" target="_blank">
+    <img src="https://img.shields.io/badge/-nikhileshkverma-0A0A0A?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ## 📫 Let’s Talk!
-Feel free to explore, fork, or raise issues on any of my projects. I’m always open to collaboration, mentorship, and new opportunities!  
+I welcome you to connect via any of the social links above to explore potential opportunities, mentorship, or collaborative ventures. You’re also encouraged to engage with my work—feel free to clone or fork repositories, open issues, or submit pull requests with your suggestions for enhancement. 
