@@ -7,7 +7,6 @@
 - 🎓 MS in Computer Science student at **Texas A&M University–Corpus Christi**.  
 - 🔬 Graduate Research Assistant on CAHSI-Google project: “Protect On-Device AI Security with Multi-Enclave Architecture and Autoencoder.”
 
----
 
 ## 🛠 Tech Stack
 
