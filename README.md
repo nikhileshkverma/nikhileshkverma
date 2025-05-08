@@ -12,12 +12,7 @@
 ## 🛠 Tech Stack
 
 #### 🔤 Languages  
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
 
 #### 🧰 Frameworks & Libraries  
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)  
