@@ -5,9 +5,16 @@
 
 ---
 ## 💻 About Me
-- 🤔   I like building new technologies to secure on-device AI and edge-computing solutions to tackle today’s tech challenges   
-- 🎓 MS in Computer Science student at **Texas A&M University–Corpus Christi**.  
-- 🔬 Graduate Research Assistant on CAHSI-Google project: “Protect On-Device AI Security with Multi-Enclave Architecture and Autoencoder.”
+
+🚀 AI & Systems Engineer building secure, scalable machine learning systems at the intersection of ML, cloud, and systems security.
+
+🎓 Graduate Research Assistant at Texas A&M University–Corpus Christi
+- Secure on-device AI (RISC-V + Keystone, multi-enclave architectures)
+- Spatiotemporal deep learning for large-scale thunderstorm forecasting (HRRR / GOES-16)
+
+🔬 Experienced in distributed systems, cloud-native infrastructure (AWS, Azure, GCP), and production-ready ML pipelines.
+
+🎯 Always exploring the intersection of AI, engineering excellence, and user experience.
 
 
 ## 🛠 Tech Stack
