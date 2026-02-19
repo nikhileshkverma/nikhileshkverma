@@ -27,13 +27,18 @@
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django) ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikit-learn) ![matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
 
 #### 🗄️ Databases & Caching  
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) ![HAProxy](https://img.shields.io/badge/-HAProxy-333333?style=flat)
+ ![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-333333?style=flat)
+
 
 #### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws) ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions) ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Hyper-V](https://img.shields.io/badge/-Hyper--V-333333?style=flat&logo=microsoft) ![Citrix](https://img.shields.io/badge/-Citrix-333333?style=flat&logo=citrix) ![Nagios](https://img.shields.io/badge/-Nagios-333333?style=flat&logo=nagios) ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus) ![Veeam](https://img.shields.io/badge/-Veeam-333333?style=flat&logo=veeam)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws) ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure) ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=google-cloud)
+ ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions) ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Hyper-V](https://img.shields.io/badge/-Hyper--V-333333?style=flat&logo=microsoft) ![Citrix](https://img.shields.io/badge/-Citrix-333333?style=flat&logo=citrix) ![Nagios](https://img.shields.io/badge/-Nagios-333333?style=flat&logo=nagios) ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus) ![Veeam](https://img.shields.io/badge/-Veeam-333333?style=flat&logo=veeam)
 
 #### 🛡️ Security & Systems  
-![RISC-V](https://img.shields.io/badge/-RISC--V-333333?style=flat&logo=riscv) ![Keystone](https://img.shields.io/badge/-Keystone-333333?style=flat&logo=trusted-computing-group) ![Microsoft Defender](https://img.shields.io/badge/-Microsoft%20Defender-333333?style=flat&logo=microsoftdefender) ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-333333?style=flat&logo=cyberdefense)
+![RISC-V](https://img.shields.io/badge/-RISC--V-333333?style=flat&logo=riscv) ![Keystone](https://img.shields.io/badge/-Keystone-333333?style=flat&logo=trusted-computing-group) ![Microsoft Defender](https://img.shields.io/badge/-Microsoft%20Defender-333333?style=flat&logo=microsoftdefender) ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-333333?style=flat&logo=cyberdefense) ![Network Security](https://img.shields.io/badge/-Network%20Security-333333?style=flat)
+ ![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-333333?style=flat)
+
 
 #### 📈 Data Science & ML  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter) ![pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy) ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn) ![LLM](https://img.shields.io/badge/-LLM-333333?style=flat&logo=openai) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=machinelearning)
@@ -41,11 +46,18 @@
 #### 🧠 AI & NLP  
 ![AI](https://img.shields.io/badge/-AI-333333?style=flat&logo=artificialintelligence) ![NLP](https://img.shields.io/badge/-NLP-333333?style=flat&logo=fastapi) ![Speech-to-Text](https://img.shields.io/badge/-Speech--to--Text-333333?style=flat&logo=google) ![Text-to-Speech](https://img.shields.io/badge/-Text--to--Speech-333333?style=flat&logo=google)
 
+### 🌐 Networking & Enterprise Infrastructure
+![Cisco](https://img.shields.io/badge/-Cisco%20Firewall-333333?style=flat&logo=cisco)
+![Exchange](https://img.shields.io/badge/-Microsoft%20Exchange-333333?style=flat&logo=microsoft)
+![Office 365](https://img.shields.io/badge/-Office%20365-333333?style=flat&logo=microsoft)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-333333?style=flat&logo=microsoft)
+
+
 #### 💻 Software & Tools  
 ![Office](https://img.shields.io/badge/-Microsoft%20Office-333333?style=flat&logo=microsoftoffice) ![WHMCS](https://img.shields.io/badge/-WHMCS-333333?style=flat&logo=whmcs) ![QuickBooks](https://img.shields.io/badge/-QuickBooks-333333?style=flat&logo=intuit) ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop) ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro) ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=adobe-after-effects) ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 
 #### 🧪 Hardware, IoT, and Embedded  
-![ESP8266](https://img.shields.io/badge/-ESP8266-333333?style=flat&logo=espressif) ![IoT](https://img.shields.io/badge/-IoT-333333?style=flat&logo=iot) ![Embedded C](https://img.shields.io/badge/-Embedded%20C-333333?style=flat&logo=c) ![Microcontroller](https://img.shields.io/badge/-Microcontrollers-333333?style=flat&logo=raspberrypi)
+![RISC-V](https://img.shields.io/badge/-RISC--V-333333?style=flat&logo=riscv) ![SiFive](https://img.shields.io/badge/-SiFive%20Unmatched-333333?style=flat) ![Keystone](https://img.shields.io/badge/-Keystone%20TEE-333333?style=flat) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberrypi) ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino) ![ESP8266](https://img.shields.io/badge/-ESP8266-333333?style=flat) ![NVIDIA Jetson](https://img.shields.io/badge/-NVIDIA%20Jetson-333333?style=flat&logo=nvidia) ![Embedded C](https://img.shields.io/badge/-Embedded%20C-333333?style=flat&logo=c) ![Edge Computing](https://img.shields.io/badge/-Edge%20Computing-333333?style=flat)
 
 
 ##  🤝🏻 &nbsp;Connect with Me
