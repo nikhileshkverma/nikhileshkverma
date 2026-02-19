@@ -17,6 +17,16 @@
 🎯 Always exploring the intersection of AI, engineering excellence, and user experience.
 
 
+---
+
+## 📜 Certifications
+
+![Microsoft](https://img.shields.io/badge/Microsoft-Security%20%26%20Identity%20Fundamentals-0078D4?style=flat&logo=microsoft&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Essentials-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Network%20Essentials-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced%20Programming-3776AB?style=flat&logo=python&logoColor=white)
+
+
 ## 🛠 Tech Stack
 
 
