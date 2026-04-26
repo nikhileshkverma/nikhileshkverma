@@ -1,6 +1,6 @@
 <!-- 🌌 Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Nikhilesh+Verma;MS+CS+@+TAMU-CC;Graduate+Research+Assistant+–+AI+%26+ML;Edge+Security+%7C+Spatiotemporal+Systems;Software+Engineer+%7C+Cloud+%26+Network+Infrastructure;Open+to+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Nikhilesh+Verma;MS+CS+@+TAMU-CC;Graduate+Research+Assistant+–+AI+%26+ML;Software+Engineer+%7C+Cloud+%26+Network+Infrastructure;Edge+Security+%7C+Spatiotemporal+Systems;Open+to+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
