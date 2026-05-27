@@ -86,7 +86,7 @@
   </a>
 
   <a href="https://www.nikhileshverma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox-browser&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox-browser&logoColor=00D9FF"/>
   </a>
 </p>
 
