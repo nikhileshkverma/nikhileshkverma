@@ -86,8 +86,8 @@
   </a>
 
   <a href="https://www.nikhileshverma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=00D9FF"/>
-  </a>
+    <img src="https://img.shields.io/badge/-Portfolio-00D9FF?style=flat-square&logo=google-chrome&logoColor=white"/>
+</a>
 </p>
 
 I welcome you to connect via any of the social links above to explore potential opportunities, mentorship, or collaborative ventures. You’re also encouraged to engage with my work—feel free to clone or fork repositories, open issues, or submit pull requests with your suggestions for enhancement. 
