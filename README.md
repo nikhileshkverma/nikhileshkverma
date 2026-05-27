@@ -76,11 +76,17 @@
   <a href="https://www.linkedin.com/in/nikhileshkverma/" target="_blank">
     <img src="https://img.shields.io/badge/-Nikhilesh%20Verma-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:nikhileshkverma@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-nikhileshkverma@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
+
   <a href="https://github.com/nikhileshkverma" target="_blank">
     <img src="https://img.shields.io/badge/-nikhileshkverma-0A0A0A?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.nikhileshverma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox-browser&logoColor=white"/>
   </a>
 </p>
 
